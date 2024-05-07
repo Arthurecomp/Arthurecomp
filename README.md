@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Arthur marcelino 👋🏽
 
-![Blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
