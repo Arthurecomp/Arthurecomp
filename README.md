@@ -2,7 +2,7 @@
 
 ![Blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthurmarcelino/)
+
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurecomp&show_icons=true&theme=dracula)
