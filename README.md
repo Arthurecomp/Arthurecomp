@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Arthur marcelino 👋🏽
 
 
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-marcelino-90b0502a6/)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurecomp&show_icons=true&theme=dracula)
 
@@ -15,6 +14,7 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 #### Sou estudante de engenharia da computação, apaixonado por tecnologia e procurando sempre novos desafios!!
