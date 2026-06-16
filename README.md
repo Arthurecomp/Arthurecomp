@@ -16,7 +16,6 @@ Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | CSS |
 
 
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurecomp&show_icons=true&theme=dracula)
 
 
 
